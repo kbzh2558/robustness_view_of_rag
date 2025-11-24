@@ -1,0 +1,401 @@
+question_id,question_text,document_idx,embedding_method
+646,"Is the smallest penguin species the Little Blue Penguin -LRB- also known as the Fairy Penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2.2 lb -RRB- ?","953,1182,1192,1204,2595",bert-base-uncased
+646,"Is the smallest penguin species the Little Blue Penguin -LRB- also known as the Fairy Penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2.2 lb -RRB- ?","952,953,967,975,979",multi-qa-mpnet-base-dot-v1
+646,"Is the smallest penguin species the Little Blue Penguin -LRB- also known as the Fairy Penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2.2 lb -RRB- ?","950,2467,2471,2596,2642",hkunlp-instructor-large
+646,"Is the smallest penguin species the Little Blue Penguin -LRB- also known as the Fairy Penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2.2 lb -RRB- ?","951,952,953,979,981",intfloat-e5-small-v2
+873,What does a citizen use to propose changes to the Constitution?,"25,656,657,658,2141",bert-base-uncased
+873,What does a citizen use to propose changes to the Constitution?,"171,826,1368,2365,2374",multi-qa-mpnet-base-dot-v1
+873,What does a citizen use to propose changes to the Constitution?,"789,826,1368,2374,2718",hkunlp-instructor-large
+873,What does a citizen use to propose changes to the Constitution?,"25,760,2120,2682,2840",intfloat-e5-small-v2
+515,Is Liechtenstein bordered by Switzerland?,"30,2188,2846,2847,2874",bert-base-uncased
+515,Is Liechtenstein bordered by Switzerland?,"2817,2843,2844,2846,2874",multi-qa-mpnet-base-dot-v1
+515,Is Liechtenstein bordered by Switzerland?,"29,30,1592,2571,2855",hkunlp-instructor-large
+515,Is Liechtenstein bordered by Switzerland?,"2817,2828,2844,2845,2846",intfloat-e5-small-v2
+390,When was James Monroe appointed to Secretary of War?,"200,636,2231,2511,2965",bert-base-uncased
+390,When was James Monroe appointed to Secretary of War?,"2506,2509,2512,2518,2519",multi-qa-mpnet-base-dot-v1
+390,When was James Monroe appointed to Secretary of War?,"202,680,2518,2519,2903",hkunlp-instructor-large
+390,When was James Monroe appointed to Secretary of War?,"2506,2509,2511,2512,2513",intfloat-e5-small-v2
+376,What is Monroe's father's name?,"201,248,379,483,1864",bert-base-uncased
+376,What is Monroe's father's name?,"2507,2518,2519,2523,2536",multi-qa-mpnet-base-dot-v1
+376,What is Monroe's father's name?,"289,499,789,2518,2903",hkunlp-instructor-large
+376,What is Monroe's father's name?,"1383,2506,2507,2521,2525",intfloat-e5-small-v2
+521,Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?,"419,445,485,2916,2981",bert-base-uncased
+521,Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?,"734,2843,2851,2853,2876",multi-qa-mpnet-base-dot-v1
+521,Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?,"29,2571,2851,2855,3161",hkunlp-instructor-large
+521,Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?,"760,1945,2120,2682,2851",intfloat-e5-small-v2
+771,"Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?","1350,1656,2141,2567,2702",bert-base-uncased
+771,"Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?","4,1655,2339,2369,2736",multi-qa-mpnet-base-dot-v1
+771,"Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?","782,2180,2369,2571,3161",hkunlp-instructor-large
+771,"Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?","4,1655,2369,2682,2736",intfloat-e5-small-v2
+649,"Is the smallest penguin species the little blue penguin -LRB- also known as the fairy penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2?","953,1182,1192,1203,1204",bert-base-uncased
+649,"Is the smallest penguin species the little blue penguin -LRB- also known as the fairy penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2?","952,953,967,975,979",multi-qa-mpnet-base-dot-v1
+649,"Is the smallest penguin species the little blue penguin -LRB- also known as the fairy penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2?","950,1147,2467,2596,2642",hkunlp-instructor-large
+649,"Is the smallest penguin species the little blue penguin -LRB- also known as the fairy penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2?","951,952,953,979,981",intfloat-e5-small-v2
+5,When did Lincoln begin his political career?,"342,379,478,2228,2231",bert-base-uncased
+5,When did Lincoln begin his political career?,"289,290,319,391,2364",multi-qa-mpnet-base-dot-v1
+5,When did Lincoln begin his political career?,"203,289,374,2116,2950",hkunlp-instructor-large
+5,When did Lincoln begin his political career?,"279,290,294,376,478",intfloat-e5-small-v2
+66,Are certain species of beetles considered pests?,"2378,2425,2429,2432,2433",bert-base-uncased
+66,Are certain species of beetles considered pests?,"2378,2394,2425,2432,2443",multi-qa-mpnet-base-dot-v1
+66,Are certain species of beetles considered pests?,"789,1147,2400,2425,2439",hkunlp-instructor-large
+66,Are certain species of beetles considered pests?,"2378,2423,2425,2426,2428",intfloat-e5-small-v2
+775,Does Theodore Roosevelt have a brother?,"347,510,1493,2883,2976",bert-base-uncased
+775,Does Theodore Roosevelt have a brother?,"433,2883,2884,2888,3033",multi-qa-mpnet-base-dot-v1
+775,Does Theodore Roosevelt have a brother?,"289,499,2518,2883,2892",hkunlp-instructor-large
+775,Does Theodore Roosevelt have a brother?,"2878,2884,2888,2952,3042",intfloat-e5-small-v2
+592,Do otters live in water?,"978,1042,1264,2629,3185",bert-base-uncased
+592,Do otters live in water?,"1917,1919,1924,1927,1935",multi-qa-mpnet-base-dot-v1
+592,Do otters live in water?,"1197,1924,1929,2596,2642",hkunlp-instructor-large
+592,Do otters live in water?,"1913,1917,1919,1920,1927",intfloat-e5-small-v2
+553,Where was Commodore Matthew C. Perry sent to open Japan to Western trade?,"176,2511,2517,2948,2949",bert-base-uncased
+553,Where was Commodore Matthew C. Perry sent to open Japan to Western trade?,"176,491,1826,2159,2802",multi-qa-mpnet-base-dot-v1
+553,Where was Commodore Matthew C. Perry sent to open Japan to Western trade?,"789,795,2012,2180,3162",hkunlp-instructor-large
+553,Where was Commodore Matthew C. Perry sent to open Japan to Western trade?,"176,760,1840,1841,2682",intfloat-e5-small-v2
+446,Is a kangaroo a reptile?,"1042,1210,1269,1287,3185",bert-base-uncased
+446,Is a kangaroo a reptile?,"1722,1728,1729,1735,1761",multi-qa-mpnet-base-dot-v1
+446,Is a kangaroo a reptile?,"789,1761,2467,2471,2642",hkunlp-instructor-large
+446,Is a kangaroo a reptile?,"1722,1733,1735,1737,1745",intfloat-e5-small-v2
+264,Has another US President been an Eagle Scout?,"1480,2527,2962,2973,3001",bert-base-uncased
+264,Has another US President been an Eagle Scout?,"2000,2001,2086,2121,3001",multi-qa-mpnet-base-dot-v1
+264,Has another US President been an Eagle Scout?,"289,2116,2655,2883,2903",hkunlp-instructor-large
+264,Has another US President been an Eagle Scout?,"2000,2001,2682,2934,3001",intfloat-e5-small-v2
+91,When did Coolidge meet and marry Grace Anna Goodhue?,"432,451,483,1831,1867",bert-base-uncased
+91,When did Coolidge meet and marry Grace Anna Goodhue?,"404,408,410,433,444",multi-qa-mpnet-base-dot-v1
+91,When did Coolidge meet and marry Grace Anna Goodhue?,"410,413,428,499,2903",hkunlp-instructor-large
+91,When did Coolidge meet and marry Grace Anna Goodhue?,"400,405,408,410,473",intfloat-e5-small-v2
+13,Which county was Lincoln born in?,"298,1774,2234,2238,2968",bert-base-uncased
+13,Which county was Lincoln born in?,"283,286,289,317,391",multi-qa-mpnet-base-dot-v1
+13,Which county was Lincoln born in?,"202,203,289,374,2950",hkunlp-instructor-large
+13,Which county was Lincoln born in?,"283,285,286,287,304",intfloat-e5-small-v2
+743,How much increase in the media's contribution to GDP is the government seeking?,"39,813,902,904,1660",bert-base-uncased
+743,How much increase in the media's contribution to GDP is the government seeking?,"826,1368,2369,2781,3117",multi-qa-mpnet-base-dot-v1
+743,How much increase in the media's contribution to GDP is the government seeking?,"826,1368,2374,2718,3161",hkunlp-instructor-large
+743,How much increase in the media's contribution to GDP is the government seeking?,"760,781,2120,2682,2781",intfloat-e5-small-v2
+565,How did Fillmore ascend to the presidency?,"436,503,2026,2041,2932",bert-base-uncased
+565,How did Fillmore ascend to the presidency?,"149,162,177,185,204",multi-qa-mpnet-base-dot-v1
+565,How did Fillmore ascend to the presidency?,"195,202,289,2116,2518",hkunlp-instructor-large
+565,How did Fillmore ascend to the presidency?,"149,162,163,200,201",intfloat-e5-small-v2
+851,What happened in 1865?,"232,247,1544,1545,3125",bert-base-uncased
+851,What happened in 1865?,"203,279,332,354,2364",multi-qa-mpnet-base-dot-v1
+851,What happened in 1865?,"202,203,789,2115,2116",hkunlp-instructor-large
+851,What happened in 1865?,"202,355,760,2364,2682",intfloat-e5-small-v2
+895,Who was President when Wilson finished Congressional Government?,"510,2136,2138,2141,2203",bert-base-uncased
+895,Who was President when Wilson finished Congressional Government?,"2138,2195,2208,2231,2238",multi-qa-mpnet-base-dot-v1
+895,Who was President when Wilson finished Congressional Government?,"2195,2208,2210,2518,2718",hkunlp-instructor-large
+895,Who was President when Wilson finished Congressional Government?,"2129,2144,2145,2153,2231",intfloat-e5-small-v2
+603,Why is the giant otter becoming increasingly rare?,"1114,1142,1274,2622,2641",bert-base-uncased
+603,Why is the giant otter becoming increasingly rare?,"1923,1924,1929,1931,1935",multi-qa-mpnet-base-dot-v1
+603,Why is the giant otter becoming increasingly rare?,"1147,1171,1929,2596,2642",hkunlp-instructor-large
+603,Why is the giant otter becoming increasingly rare?,"760,1739,1919,1922,1931",intfloat-e5-small-v2
+842,When did he vote for democrat james buchanan?,"173,478,484,1780,2231",bert-base-uncased
+842,When did he vote for democrat james buchanan?,"202,203,478,484,2116",multi-qa-mpnet-base-dot-v1
+842,When did he vote for democrat james buchanan?,"202,203,289,680,2116",hkunlp-instructor-large
+842,When did he vote for democrat james buchanan?,"474,478,484,1780,2144",intfloat-e5-small-v2
+822,Is aquatic respiration in Australian freshwater turtles being studied?,"1237,1274,1946,2686,3164",bert-base-uncased
+822,Is aquatic respiration in Australian freshwater turtles being studied?,"2389,2684,2685,2686,2690",multi-qa-mpnet-base-dot-v1
+822,Is aquatic respiration in Australian freshwater turtles being studied?,"1197,1202,2467,2642,2685",hkunlp-instructor-large
+822,Is aquatic respiration in Australian freshwater turtles being studied?,"760,2120,2682,2684,2686",intfloat-e5-small-v2
+403,Was Monroe anticlerical?,"379,482,483,1167,2141",bert-base-uncased
+403,Was Monroe anticlerical?,"391,2506,2516,2525,2534",multi-qa-mpnet-base-dot-v1
+403,Was Monroe anticlerical?,"289,499,2518,2903,2950",hkunlp-instructor-large
+403,Was Monroe anticlerical?,"2516,2525,2534,2535,2682",intfloat-e5-small-v2
+660,Does a polar bear live in the Arctic?,"1925,2618,2620,2622,2623",bert-base-uncased
+660,Does a polar bear live in the Arctic?,"2592,2608,2618,2642,2652",multi-qa-mpnet-base-dot-v1
+660,Does a polar bear live in the Arctic?,"2596,2608,2633,2642,2652",hkunlp-instructor-large
+660,Does a polar bear live in the Arctic?,"2591,2592,2618,2624,2642",intfloat-e5-small-v2
+574,Is the comic strip Mallard Fillmore named after the president ?,"191,1480,1864,1874,2973",bert-base-uncased
+574,Is the comic strip Mallard Fillmore named after the president ?,"191,195,198,200,204",multi-qa-mpnet-base-dot-v1
+574,Is the comic strip Mallard Fillmore named after the president ?,"191,195,289,680,2518",hkunlp-instructor-large
+574,Is the comic strip Mallard Fillmore named after the president ?,"191,195,200,201,204",intfloat-e5-small-v2
+505,Is the leopard solitary?,"1042,1049,1081,1329,2706",bert-base-uncased
+505,Is the leopard solitary?,"2455,2462,2466,2467,2474",multi-qa-mpnet-base-dot-v1
+505,Is the leopard solitary?,"1147,2462,2467,2471,2642",hkunlp-instructor-large
+505,Is the leopard solitary?,"2445,2455,2458,2466,2490",intfloat-e5-small-v2
+541,The Historical Society of the Principality of Liechtenstein plays what?,"2825,2832,2840,2863,2869",bert-base-uncased
+541,The Historical Society of the Principality of Liechtenstein plays what?,"2849,2863,2864,2866,2868",multi-qa-mpnet-base-dot-v1
+541,The Historical Society of the Principality of Liechtenstein plays what?,"1592,1627,2718,2855,3162",hkunlp-instructor-large
+541,The Historical Society of the Principality of Liechtenstein plays what?,"2817,2819,2863,2864,2868",intfloat-e5-small-v2
+667,How much weight do female polar bears gain during pregnancy?,"1251,1254,1257,2464,2607",bert-base-uncased
+667,How much weight do female polar bears gain during pregnancy?,"2591,2595,2608,2635,2642",multi-qa-mpnet-base-dot-v1
+667,How much weight do female polar bears gain during pregnancy?,"2596,2608,2633,2642,2652",hkunlp-instructor-large
+667,How much weight do female polar bears gain during pregnancy?,"760,1043,2591,2595,2635",intfloat-e5-small-v2
+503,What sort of cats are solitary?,"1042,1137,1210,1287,3185",bert-base-uncased
+503,What sort of cats are solitary?,"1035,1167,2458,2475,2596",multi-qa-mpnet-base-dot-v1
+503,What sort of cats are solitary?,"1147,1172,2467,2471,2642",hkunlp-instructor-large
+503,What sort of cats are solitary?,"760,1531,1944,2458,2682",intfloat-e5-small-v2
+210,Are elephants mammals?,"1173,1215,1264,1269,1326",bert-base-uncased
+210,Are elephants mammals?,"1186,1197,1236,1260,1282",multi-qa-mpnet-base-dot-v1
+210,Are elephants mammals?,"1186,1197,1202,1224,1252",hkunlp-instructor-large
+210,Are elephants mammals?,"1175,1177,1190,1225,1264",intfloat-e5-small-v2
+672,What do with greenpeace and the natural resources defense council have in common?,"1271,2320,2594,2656,2657",bert-base-uncased
+672,What do with greenpeace and the natural resources defense council have in common?,"2181,2374,2647,2656,2682",multi-qa-mpnet-base-dot-v1
+672,What do with greenpeace and the natural resources defense council have in common?,"30,2543,2571,2611,2642",hkunlp-instructor-large
+672,What do with greenpeace and the natural resources defense council have in common?,"760,2181,2644,2656,2682",intfloat-e5-small-v2
+315,How many years after Cleveland left office did the U.S. win the Spanish-American War?,"175,474,683,2192,2293",bert-base-uncased
+315,How many years after Cleveland left office did the U.S. win the Spanish-American War?,"499,503,511,534,2921",multi-qa-mpnet-base-dot-v1
+315,How many years after Cleveland left office did the U.S. win the Spanish-American War?,"202,203,499,2116,2903",hkunlp-instructor-large
+315,How many years after Cleveland left office did the U.S. win the Spanish-American War?,"478,492,502,503,511",intfloat-e5-small-v2
+643,"Is it also possible that penguin comes from the Latin pinguis , fat ?","996,997,998,1289,3177",bert-base-uncased
+643,"Is it also possible that penguin comes from the Latin pinguis , fat ?","974,993,996,997,998",multi-qa-mpnet-base-dot-v1
+643,"Is it also possible that penguin comes from the Latin pinguis , fat ?","950,1172,2467,2642,3060",hkunlp-instructor-large
+643,"Is it also possible that penguin comes from the Latin pinguis , fat ?","981,996,997,1000,2682",intfloat-e5-small-v2
+859,What are poor neighborhoods called informally?,"67,216,2141,3190,3192",bert-base-uncased
+859,What are poor neighborhoods called informally?,"58,61,67,68,2372",multi-qa-mpnet-base-dot-v1
+859,What are poor neighborhoods called informally?,"61,789,2483,2718,2816",hkunlp-instructor-large
+859,What are poor neighborhoods called informally?,"67,760,1911,1912,2682",intfloat-e5-small-v2
+556,Did Fillmore run for President a second time?,"416,451,2026,2243,2932",bert-base-uncased
+556,Did Fillmore run for President a second time?,"149,154,156,185,204",multi-qa-mpnet-base-dot-v1
+556,Did Fillmore run for President a second time?,"195,202,203,289,2116",hkunlp-instructor-large
+556,Did Fillmore run for President a second time?,"149,163,185,200,201",intfloat-e5-small-v2
+904,Where was Woodrow Wilson born?,"1439,2226,2228,2959,2976",bert-base-uncased
+904,Where was Woodrow Wilson born?,"2132,2195,2238,2245,2248",multi-qa-mpnet-base-dot-v1
+904,Where was Woodrow Wilson born?,"289,2208,2210,2518,2903",hkunlp-instructor-large
+904,Where was Woodrow Wilson born?,"403,2129,2132,2134,2230",intfloat-e5-small-v2
+45,Is it true that thermometer had 100 for the freezing point?,"145,146,592,1452,1583",bert-base-uncased
+45,Is it true that thermometer had 100 for the freezing point?,"140,145,146,542,3186",multi-qa-mpnet-base-dot-v1
+45,Is it true that thermometer had 100 for the freezing point?,"140,789,2551,2642,2950",hkunlp-instructor-large
+45,Is it true that thermometer had 100 for the freezing point?,"760,896,1945,2551,2682",intfloat-e5-small-v2
+830,Was Ulysses Grant a general in the American Civil War?,"478,1768,1797,1839,2527",bert-base-uncased
+830,Was Ulysses Grant a general in the American Civil War?,"1768,1792,1797,1888,1889",multi-qa-mpnet-base-dot-v1
+830,Was Ulysses Grant a general in the American Civil War?,"289,1792,1839,1844,2903",hkunlp-instructor-large
+830,Was Ulysses Grant a general in the American Civil War?,"349,1768,1792,1797,1811",intfloat-e5-small-v2
+662,Is a polar bear at high risk of extinction?,"1022,2594,2622,2623,2640",bert-base-uncased
+662,Is a polar bear at high risk of extinction?,"2594,2608,2622,2640,2642",multi-qa-mpnet-base-dot-v1
+662,Is a polar bear at high risk of extinction?,"1147,2596,2608,2642,2652",hkunlp-instructor-large
+662,Is a polar bear at high risk of extinction?,"2594,2622,2641,2642,2647",intfloat-e5-small-v2
+488,Where do leopards often hide their kills?,"1116,1124,1137,2460,2496",bert-base-uncased
+488,Where do leopards often hide their kills?,"2458,2460,2462,2472,2474",multi-qa-mpnet-base-dot-v1
+488,Where do leopards often hide their kills?,"2462,2467,2471,2642,2655",hkunlp-instructor-large
+488,Where do leopards often hide their kills?,"2458,2459,2460,2490,2493",intfloat-e5-small-v2
+14,When did Lincoln first serve as President?,"478,636,2228,2231,2237",bert-base-uncased
+14,When did Lincoln first serve as President?,"279,289,320,2086,2121",multi-qa-mpnet-base-dot-v1
+14,When did Lincoln first serve as President?,"202,203,289,374,2950",hkunlp-instructor-large
+14,When did Lincoln first serve as President?,"279,289,315,368,2971",intfloat-e5-small-v2
+37,Is Avogadro 's number commonly used to compute the results of chemical reactions ?,"78,225,550,737,2255",bert-base-uncased
+37,Is Avogadro 's number commonly used to compute the results of chemical reactions ?,"725,736,737,740,746",multi-qa-mpnet-base-dot-v1
+37,Is Avogadro 's number commonly used to compute the results of chemical reactions ?,"140,724,789,896,946",hkunlp-instructor-large
+37,Is Avogadro 's number commonly used to compute the results of chemical reactions ?,"725,736,737,740,746",intfloat-e5-small-v2
+706,"Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?","841,2538,2539,2540,2589",bert-base-uncased
+706,"Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?","2537,2538,2543,2552,2571",multi-qa-mpnet-base-dot-v1
+706,"Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?","2543,2556,2557,2559,2571",hkunlp-instructor-large
+706,"Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?","2538,2574,2582,2583,2589",intfloat-e5-small-v2
+202,Is the Asian elephant larger than the African?,"1175,1192,1193,1274,1328",bert-base-uncased
+202,Is the Asian elephant larger than the African?,"1180,1182,1189,1198,1236",multi-qa-mpnet-base-dot-v1
+202,Is the Asian elephant larger than the African?,"1186,1197,1202,1224,1252",hkunlp-instructor-large
+202,Is the Asian elephant larger than the African?,"1182,1189,1192,1198,1225",intfloat-e5-small-v2
+38,Did the scientific community not reserve great attention to his theory ?,"580,1443,1495,2141,2994",bert-base-uncased
+38,Did the scientific community not reserve great attention to his theory ?,"130,745,832,1443,1448",multi-qa-mpnet-base-dot-v1
+38,Did the scientific community not reserve great attention to his theory ?,"946,1407,1447,2275,2483",hkunlp-instructor-large
+38,Did the scientific community not reserve great attention to his theory ?,"130,598,734,745,1443",intfloat-e5-small-v2
+73,Is the Adephaga suborder larger than the Polyphaga suborder?,"971,981,2418,2422,2691",bert-base-uncased
+73,Is the Adephaga suborder larger than the Polyphaga suborder?,"2415,2417,2418,2421,2422",multi-qa-mpnet-base-dot-v1
+73,Is the Adephaga suborder larger than the Polyphaga suborder?,"970,1002,1936,1937,1942",hkunlp-instructor-large
+73,Is the Adephaga suborder larger than the Polyphaga suborder?,"760,2120,2418,2419,2422",intfloat-e5-small-v2
+455,Have kangaroos fared well since European S08_settlement?,"11,1723,1727,1756,2905",bert-base-uncased
+455,Have kangaroos fared well since European S08_settlement?,"1723,1729,1735,1755,1756",multi-qa-mpnet-base-dot-v1
+455,Have kangaroos fared well since European S08_settlement?,"1172,2467,2642,2655,3179",hkunlp-instructor-large
+455,Have kangaroos fared well since European S08_settlement?,"1723,1745,1748,1755,1756",intfloat-e5-small-v2
+690,What universities are in Education City?,"885,1544,1554,1699,2141",bert-base-uncased
+690,What universities are in Education City?,"1373,2584,2619,2769,3111",multi-qa-mpnet-base-dot-v1
+690,What universities are in Education City?,"789,946,2571,2718,3111",hkunlp-instructor-large
+690,What universities are in Education City?,"760,2584,2682,2767,3111",intfloat-e5-small-v2
+241,What is the capital city?,"232,894,1544,2141,3125",bert-base-uncased
+241,What is the capital city?,"37,785,2368,2614,2619",multi-qa-mpnet-base-dot-v1
+241,What is the capital city?,"789,2299,2571,2619,2718",hkunlp-instructor-large
+241,What is the capital city?,"37,65,785,810,3108",intfloat-e5-small-v2
+314,What did Cleveland die from?,"232,510,1293,1544,1545",bert-base-uncased
+314,What did Cleveland die from?,"486,499,516,525,526",multi-qa-mpnet-base-dot-v1
+314,What did Cleveland die from?,"499,501,526,789,2903",hkunlp-instructor-large
+314,What did Cleveland die from?,"519,520,525,760,2682",intfloat-e5-small-v2
+372,Is James Monrow the fifth president of US?,"129,201,1480,1544,2968",bert-base-uncased
+372,Is James Monrow the fifth president of US?,"185,203,499,2086,2116",multi-qa-mpnet-base-dot-v1
+372,Is James Monrow the fifth president of US?,"202,203,289,680,2518",hkunlp-instructor-large
+372,Is James Monrow the fifth president of US?,"204,760,1873,2506,2682",intfloat-e5-small-v2
+107,Did Coolidge meet and marry Grace Anna Goodhue?,"401,428,444,1831,2022",bert-base-uncased
+107,Did Coolidge meet and marry Grace Anna Goodhue?,"404,408,410,433,444",multi-qa-mpnet-base-dot-v1
+107,Did Coolidge meet and marry Grace Anna Goodhue?,"410,413,428,499,2903",hkunlp-instructor-large
+107,Did Coolidge meet and marry Grace Anna Goodhue?,"405,408,410,419,424",intfloat-e5-small-v2
+394,Which property did James Monroe sell in 1817?,"483,647,2520,2526,2527",bert-base-uncased
+394,Which property did James Monroe sell in 1817?,"2506,2518,2520,2521,2536",multi-qa-mpnet-base-dot-v1
+394,Which property did James Monroe sell in 1817?,"202,680,2518,2718,2903",hkunlp-instructor-large
+394,Which property did James Monroe sell in 1817?,"2506,2507,2520,2521,2522",intfloat-e5-small-v2
+283,What is the weather like at Lake Volta?,"945,1359,1582,2328,2641",bert-base-uncased
+283,What is the weather like at Lake Volta?,"34,1359,2263,2368,3095",multi-qa-mpnet-base-dot-v1
+283,What is the weather like at Lake Volta?,"140,789,1599,2368,2543",hkunlp-instructor-large
+283,What is the weather like at Lake Volta?,"1359,1507,1531,1944,2682",intfloat-e5-small-v2
+533,What is the smallest German-speaking country in the world?,"938,1553,1622,2846,2847",bert-base-uncased
+533,What is the smallest German-speaking country in the world?,"1596,2371,2611,2817,2856",multi-qa-mpnet-base-dot-v1
+533,What is the smallest German-speaking country in the world?,"29,30,1592,2571,2611",hkunlp-instructor-large
+533,What is the smallest German-speaking country in the world?,"2682,2817,2846,2847,2856",intfloat-e5-small-v2
+858,Who heavily influenced the architecture and culture of Montevideo?,"48,928,1682,2796,2798",bert-base-uncased
+858,Who heavily influenced the architecture and culture of Montevideo?,"37,48,65,2364,2372",multi-qa-mpnet-base-dot-v1
+858,Who heavily influenced the architecture and culture of Montevideo?,"29,37,2571,2834,3162",hkunlp-instructor-large
+858,Who heavily influenced the architecture and culture of Montevideo?,"11,16,37,40,48",intfloat-e5-small-v2
+219,Were the treaties signed in 1947 and 1948 with the Ukraine?,"1566,1572,2188,2222,3076",bert-base-uncased
+219,Were the treaties signed in 1947 and 1948 with the Ukraine?,"1572,1573,1639,2178,2183",multi-qa-mpnet-base-dot-v1
+219,Were the treaties signed in 1947 and 1948 with the Ukraine?,"29,30,1592,2183,2195",hkunlp-instructor-large
+219,Were the treaties signed in 1947 and 1948 with the Ukraine?,"760,1572,1573,1911,2682",intfloat-e5-small-v2
+167,Are ducks an accepted presence in some populated areas?,"1120,1121,2433,2457,3187",bert-base-uncased
+167,Are ducks an accepted presence in some populated areas?,"3163,3167,3176,3180,3187",multi-qa-mpnet-base-dot-v1
+167,Are ducks an accepted presence in some populated areas?,"789,2619,2642,2816,3179",hkunlp-instructor-large
+167,Are ducks an accepted presence in some populated areas?,"3163,3167,3176,3180,3187",intfloat-e5-small-v2
+739,How many people use the bus network daily?,"1699,1703,2141,3120,3121",bert-base-uncased
+739,How many people use the bus network daily?,"2809,2811,2814,2861,3118",multi-qa-mpnet-base-dot-v1
+739,How many people use the bus network daily?,"789,2718,2814,2816,3118",hkunlp-instructor-large
+739,How many people use the bus network daily?,"760,2120,2682,2809,2811",intfloat-e5-small-v2
+850,Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?,"594,1855,1856,1976,2797",bert-base-uncased
+850,Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?,"99,1856,2299,2728,2738",multi-qa-mpnet-base-dot-v1
+850,Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?,"2299,2707,2718,2728,2834",hkunlp-instructor-large
+850,Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?,"760,1855,1856,1857,2120",intfloat-e5-small-v2
+604,How do otters keep themselves warm without blubber?,"1227,1919,1927,2629,2684",bert-base-uncased
+604,How do otters keep themselves warm without blubber?,"1916,1917,1927,2596,2599",multi-qa-mpnet-base-dot-v1
+604,How do otters keep themselves warm without blubber?,"1929,2596,2633,2642,2652",hkunlp-instructor-large
+604,How do otters keep themselves warm without blubber?,"963,1916,1917,1919,1927",intfloat-e5-small-v2
+725,"Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?","48,3048,3110,3126,3139",bert-base-uncased
+725,"Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?","3048,3071,3111,3127,3139",multi-qa-mpnet-base-dot-v1
+725,"Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?","3060,3092,3118,3127,3130",hkunlp-instructor-large
+725,"Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?","3048,3126,3127,3129,3139",intfloat-e5-small-v2
+192,Are elephants the largest land animals alive today?,"1178,1192,1200,1241,1274",bert-base-uncased
+192,Are elephants the largest land animals alive today?,"1177,1192,1236,1260,1282",multi-qa-mpnet-base-dot-v1
+192,Are elephants the largest land animals alive today?,"1186,1197,1202,1224,2467",hkunlp-instructor-large
+192,Are elephants the largest land animals alive today?,"1175,1177,1192,1236,1264",intfloat-e5-small-v2
+362,Is Indonesia a republic?,"167,819,886,1329,2141",bert-base-uncased
+362,Is Indonesia a republic?,"751,774,782,785,795",multi-qa-mpnet-base-dot-v1
+362,Is Indonesia a republic?,"782,788,789,792,795",hkunlp-instructor-large
+362,Is Indonesia a republic?,"751,774,781,784,820",intfloat-e5-small-v2
+53,Was Celsius born in Uppsala in Sweden ?,"141,142,143,1109,1279",bert-base-uncased
+53,Was Celsius born in Uppsala in Sweden ?,"140,141,142,143,145",multi-qa-mpnet-base-dot-v1
+53,Was Celsius born in Uppsala in Sweden ?,"140,1592,1595,1596,1599",hkunlp-instructor-large
+53,Was Celsius born in Uppsala in Sweden ?,"140,142,143,145,146",intfloat-e5-small-v2
+387,What did James Monroe do before being elected governor?,"200,478,636,656,2228",bert-base-uncased
+387,What did James Monroe do before being elected governor?,"2506,2508,2510,2519,2535",multi-qa-mpnet-base-dot-v1
+387,What did James Monroe do before being elected governor?,"289,499,2518,2883,2892",hkunlp-instructor-large
+387,What did James Monroe do before being elected governor?,"2506,2508,2510,2512,2535",intfloat-e5-small-v2
+679,Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?,"1095,1114,1184,1266,2625",bert-base-uncased
+679,Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?,"2608,2621,2642,2652,2661",multi-qa-mpnet-base-dot-v1
+679,Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?,"1147,2596,2608,2642,2652",hkunlp-instructor-large
+679,Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?,"2591,2624,2632,2661,2682",intfloat-e5-small-v2
+96,Was Coolidge the thirteenth President of the United States?,"423,436,452,458,2965",bert-base-uncased
+96,Was Coolidge the thirteenth President of the United States?,"404,433,444,463,465",multi-qa-mpnet-base-dot-v1
+96,Was Coolidge the thirteenth President of the United States?,"289,413,680,2518,2903",hkunlp-instructor-large
+96,Was Coolidge the thirteenth President of the United States?,"400,401,405,415,424",intfloat-e5-small-v2
+742,How is Singapore's climate characterized?,"62,886,1553,1554,2141",bert-base-uncased
+742,How is Singapore's climate characterized?,"2368,2707,2726,2733,2812",multi-qa-mpnet-base-dot-v1
+742,How is Singapore's climate characterized?,"788,789,2368,2543,2571",hkunlp-instructor-large
+742,How is Singapore's climate characterized?,"760,1590,2368,2700,2733",intfloat-e5-small-v2
+753,When did Goh Chok Tong succeed Lee as Prime Minister?,"1348,2714,2715,2717,2722",bert-base-uncased
+753,When did Goh Chok Tong succeed Lee as Prime Minister?,"771,2715,2716,2717,3085",multi-qa-mpnet-base-dot-v1
+753,When did Goh Chok Tong succeed Lee as Prime Minister?,"782,788,789,2299,2718",hkunlp-instructor-large
+753,When did Goh Chok Tong succeed Lee as Prime Minister?,"760,2714,2715,2716,2717",intfloat-e5-small-v2
+910,Who did Wilson win in 1917?,"532,2238,2243,2248,2931",bert-base-uncased
+910,Who did Wilson win in 1917?,"2153,2195,2231,2238,2245",multi-qa-mpnet-base-dot-v1
+910,Who did Wilson win in 1917?,"202,203,1827,2195,2210",hkunlp-instructor-large
+910,Who did Wilson win in 1917?,"2166,2169,2170,2171,2198",intfloat-e5-small-v2
+284,Is Ghana in Asia?,"1269,1329,1338,1616,3188",bert-base-uncased
+284,Is Ghana in Asia?,"1334,1338,1355,1357,1367",multi-qa-mpnet-base-dot-v1
+284,Is Ghana in Asia?,"795,1355,1357,1367,2571",hkunlp-instructor-large
+284,Is Ghana in Asia?,"1334,1335,1357,1358,1367",intfloat-e5-small-v2
+274,Did they not claim Ford 's pardon was quid pro quo in exchange for Nixon 's resignation ?,"161,436,491,2039,2043",bert-base-uncased
+274,Did they not claim Ford 's pardon was quid pro quo in exchange for Nixon 's resignation ?,"2042,2043,2044,2045,2046",multi-qa-mpnet-base-dot-v1
+274,Did they not claim Ford 's pardon was quid pro quo in exchange for Nixon 's resignation ?,"2025,2053,2086,2115,2116",hkunlp-instructor-large
+274,Did they not claim Ford 's pardon was quid pro quo in exchange for Nixon 's resignation ?,"2038,2043,2044,2045,2046",intfloat-e5-small-v2
+293,Do wolf pups tend to have darker fur than adults?,"1031,1036,1045,1055,1064",bert-base-uncased
+293,Do wolf pups tend to have darker fur than adults?,"1026,1032,1034,1035,1174",multi-qa-mpnet-base-dot-v1
+293,Do wolf pups tend to have darker fur than adults?,"1026,1147,1171,1172,2642",hkunlp-instructor-large
+293,Do wolf pups tend to have darker fur than adults?,"1031,1032,1034,1036,1067",intfloat-e5-small-v2
+451,"What do kangaroos use for ""crawl-walking?""","961,1212,1726,1727,1739",bert-base-uncased
+451,"What do kangaroos use for ""crawl-walking?""","1728,1735,1738,1751,1752",multi-qa-mpnet-base-dot-v1
+451,"What do kangaroos use for ""crawl-walking?""","789,1761,2467,2642,2814",hkunlp-instructor-large
+451,"What do kangaroos use for ""crawl-walking?""","1729,1738,1739,1746,1752",intfloat-e5-small-v2
+601,What is the primary item in an otter's diet?,"1088,1239,1917,1918,1927",bert-base-uncased
+601,What is the primary item in an otter's diet?,"1260,1917,1918,1926,1929",multi-qa-mpnet-base-dot-v1
+601,What is the primary item in an otter's diet?,"1197,1929,2467,2596,2642",hkunlp-instructor-large
+601,What is the primary item in an otter's diet?,"1917,1918,1919,1926,1927",intfloat-e5-small-v2
+312,Did Grover Cleveland support women's suffrage?,"314,332,513,1501,2203",bert-base-uncased
+312,Did Grover Cleveland support women's suffrage?,"499,513,516,532,534",multi-qa-mpnet-base-dot-v1
+312,Did Grover Cleveland support women's suffrage?,"202,499,501,526,2116",hkunlp-instructor-large
+312,Did Grover Cleveland support women's suffrage?,"474,483,499,513,2203",intfloat-e5-small-v2
+172,What expression is part of a conceptual framework for testing computer systems?,"227,228,229,239,3193",bert-base-uncased
+172,What expression is part of a conceptual framework for testing computer systems?,"632,633,1945,2682,3193",multi-qa-mpnet-base-dot-v1
+172,What expression is part of a conceptual framework for testing computer systems?,"789,896,898,946,2483",hkunlp-instructor-large
+172,What expression is part of a conceptual framework for testing computer systems?,"760,896,1945,2682,3193",intfloat-e5-small-v2
+532,How many municipalities are within Oberland?,"1583,1616,1699,2141,2825",bert-base-uncased
+532,How many municipalities are within Oberland?,"1603,2367,2619,2842,3147",multi-qa-mpnet-base-dot-v1
+532,How many municipalities are within Oberland?,"1592,1599,1603,1604,2367",hkunlp-instructor-large
+532,How many municipalities are within Oberland?,"760,2682,2842,3110,3148",intfloat-e5-small-v2
+733,Was the Bucharest Metro only opened in 1979 ?,"880,886,1448,2141,2694",bert-base-uncased
+733,Was the Bucharest Metro only opened in 1979 ?,"3105,3111,3115,3118,3121",multi-qa-mpnet-base-dot-v1
+733,Was the Bucharest Metro only opened in 1979 ?,"3060,3092,3111,3118,3130",hkunlp-instructor-large
+733,Was the Bucharest Metro only opened in 1979 ?,"3082,3087,3089,3121,3131",intfloat-e5-small-v2
+193,Can an elephant kill a rhinoceros?,"1116,1210,1274,1276,1294",bert-base-uncased
+193,Can an elephant kill a rhinoceros?,"1186,1187,1197,1202,1260",multi-qa-mpnet-base-dot-v1
+193,Can an elephant kill a rhinoceros?,"1186,1197,1202,1224,2642",hkunlp-instructor-large
+193,Can an elephant kill a rhinoceros?,"1223,1266,1312,1314,1320",intfloat-e5-small-v2
+645,Can larger penguins dive deep in case of need ?,"978,1042,1210,2593,2629",bert-base-uncased
+645,Can larger penguins dive deep in case of need ?,"957,958,960,962,963",multi-qa-mpnet-base-dot-v1
+645,Can larger penguins dive deep in case of need ?,"950,1197,2467,2628,2642",hkunlp-instructor-large
+645,Can larger penguins dive deep in case of need ?,"959,960,961,963,3168",intfloat-e5-small-v2
+782,How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?,"423,452,491,2216,2955",bert-base-uncased
+782,How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?,"442,2208,2210,2245,2924",multi-qa-mpnet-base-dot-v1
+782,How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?,"374,2210,2518,2718,2883",hkunlp-instructor-large
+782,How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?,"1864,2924,2952,2959,3004",intfloat-e5-small-v2
+238,Are there cathedrals scattered all across Finland?,"48,1580,1585,1586,1674",bert-base-uncased
+238,Are there cathedrals scattered all across Finland?,"1592,1595,1596,1603,1674",multi-qa-mpnet-base-dot-v1
+238,Are there cathedrals scattered all across Finland?,"1592,1595,1596,1597,1627",hkunlp-instructor-large
+238,Are there cathedrals scattered all across Finland?,"1585,1615,1668,1670,1674",intfloat-e5-small-v2
+518,When was the first factory opened?,"129,1399,1480,2228,2968",bert-base-uncased
+518,When was the first factory opened?,"2113,2364,2611,2682,2826",multi-qa-mpnet-base-dot-v1
+518,When was the first factory opened?,"906,1172,2180,2718,3162",hkunlp-instructor-large
+518,When was the first factory opened?,"760,1394,1956,2364,2826",intfloat-e5-small-v2
+48,Is The Celsius crater on the Moon named after him?,"148,627,836,1475,2266",bert-base-uncased
+48,Is The Celsius crater on the Moon named after him?,"125,148,836,1475,1515",multi-qa-mpnet-base-dot-v1
+48,Is The Celsius crater on the Moon named after him?,"140,148,1475,2518,3009",hkunlp-instructor-large
+48,Is The Celsius crater on the Moon named after him?,"125,148,836,1475,1515",intfloat-e5-small-v2
+417,Did John Adams represent the Continental Congress in Europe?,"157,643,652,662,676",bert-base-uncased
+417,Did John Adams represent the Continental Congress in Europe?,"637,652,662,680,694",multi-qa-mpnet-base-dot-v1
+417,Did John Adams represent the Continental Congress in Europe?,"670,680,2655,2718,2903",hkunlp-instructor-large
+417,Did John Adams represent the Continental Congress in Europe?,"637,643,652,662,671",intfloat-e5-small-v2
+909,"What defended slavery, owned slaves and S08_set up a Sunday school for them?","314,359,381,658,1501",bert-base-uncased
+909,"What defended slavery, owned slaves and S08_set up a Sunday school for them?","285,391,2364,2912,2913",multi-qa-mpnet-base-dot-v1
+909,"What defended slavery, owned slaves and S08_set up a Sunday school for them?","289,906,2364,2903,3162",hkunlp-instructor-large
+909,"What defended slavery, owned slaves and S08_set up a Sunday school for them?","760,2120,2364,2535,2682",intfloat-e5-small-v2
+338,Is it true that he shared the nobel prize in physics?,"539,591,701,1448,1544",bert-base-uncased
+338,Is it true that he shared the nobel prize in physics?,"125,834,1389,1431,1433",multi-qa-mpnet-base-dot-v1
+338,Is it true that he shared the nobel prize in physics?,"586,1391,1407,1513,2312",hkunlp-instructor-large
+338,Is it true that he shared the nobel prize in physics?,"598,834,1377,1431,1443",intfloat-e5-small-v2
+805,Name a turtle popularly kept as a pet.,"1727,1914,2692,2693,2973",bert-base-uncased
+805,Name a turtle popularly kept as a pet.,"2685,2693,2696,2697,2698",multi-qa-mpnet-base-dot-v1
+805,Name a turtle popularly kept as a pet.,"789,1202,2467,2642,2685",hkunlp-instructor-large
+805,Name a turtle popularly kept as a pet.,"2683,2692,2693,2696,2698",intfloat-e5-small-v2
+333,Did the Department of the Interior not charge that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements ?,"160,305,488,1835,2657",bert-base-uncased
+333,Did the Department of the Interior not charge that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements ?,"168,305,488,2905,2928",multi-qa-mpnet-base-dot-v1
+333,Did the Department of the Interior not charge that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements ?,"1172,1600,2180,2467,3118",hkunlp-instructor-large
+333,Did the Department of the Interior not charge that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements ?,"165,381,488,760,2682",intfloat-e5-small-v2
+896,What field did Woodrow Wilson leave law practice to study?,"129,379,401,2135,2141",bert-base-uncased
+896,What field did Woodrow Wilson leave law practice to study?,"2133,2135,2195,2209,2238",multi-qa-mpnet-base-dot-v1
+896,What field did Woodrow Wilson leave law practice to study?,"289,2195,2208,2210,3161",hkunlp-instructor-large
+896,What field did Woodrow Wilson leave law practice to study?,"523,2133,2134,2135,2146",intfloat-e5-small-v2
+61,Which defense mechanism uses colour or shape to deceive potential enemies?,"1757,2403,2407,2408,2409",bert-base-uncased
+61,Which defense mechanism uses colour or shape to deceive potential enemies?,"1033,1042,2407,2408,2409",multi-qa-mpnet-base-dot-v1
+61,Which defense mechanism uses colour or shape to deceive potential enemies?,"789,896,2467,2642,2648",hkunlp-instructor-large
+61,Which defense mechanism uses colour or shape to deceive potential enemies?,"760,1507,2408,2409,2682",intfloat-e5-small-v2
+758,What is the most densely populated independent country in the world?,"938,1622,2271,2846,3048",bert-base-uncased
+758,What is the most densely populated independent country in the world?,"2327,2368,2611,2614,2619",multi-qa-mpnet-base-dot-v1
+758,What is the most densely populated independent country in the world?,"29,782,795,2571,2619",hkunlp-instructor-large
+758,What is the most densely populated independent country in the world?,"797,815,1609,2327,2759",intfloat-e5-small-v2
+196,How long may elephants live?,"232,580,1287,1293,2906",bert-base-uncased
+196,How long may elephants live?,"1177,1186,1221,1236,1260",multi-qa-mpnet-base-dot-v1
+196,How long may elephants live?,"1186,1197,1202,1224,1252",hkunlp-instructor-large
+196,How long may elephants live?,"1175,1177,1222,1257,1265",intfloat-e5-small-v2
+546,Is it a winter sports resort?,"1074,1167,1269,2596,2628",bert-base-uncased
+546,Is it a winter sports resort?,"1374,1717,2611,2612,2621",multi-qa-mpnet-base-dot-v1
+546,Is it a winter sports resort?,"1592,2543,2608,2642,2814",hkunlp-instructor-large
+546,Is it a winter sports resort?,"760,1507,1944,1945,2682",intfloat-e5-small-v2
+794,Are turtles pets?,"1210,2692,2697,2698,3185",bert-base-uncased
+794,Are turtles pets?,"2683,2685,2693,2696,2698",multi-qa-mpnet-base-dot-v1
+794,Are turtles pets?,"789,2467,2642,2648,2685",hkunlp-instructor-large
+794,Are turtles pets?,"2684,2688,2692,2693,2698",intfloat-e5-small-v2
+332,Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?,"525,699,706,1396,2226",bert-base-uncased
+332,Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?,"147,525,567,1967,2999",multi-qa-mpnet-base-dot-v1
+332,Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?,"117,289,567,2718,2903",hkunlp-instructor-large
+332,Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?,"147,188,262,525,3002",intfloat-e5-small-v2
