@@ -1,0 +1,241 @@
+param_rho_vec,param_lambda,param_rho_div,question_id,question_text,document_id
+0.02,0.5,0.8,1492,Did Theodore Roosevelt study Judo?,2883
+0.02,0.5,0.9,1492,Did Theodore Roosevelt study Judo?,2883
+0.02,0.65,0.8,1492,Did Theodore Roosevelt study Judo?,2883
+0.02,0.65,0.9,1492,Did Theodore Roosevelt study Judo?,2883
+0.02,0.72,0.8,1492,Did Theodore Roosevelt study Judo?,2883
+0.02,0.72,0.9,1492,Did Theodore Roosevelt study Judo?,2883
+0.05,0.5,0.8,1492,Did Theodore Roosevelt study Judo?,2883
+0.05,0.5,0.9,1492,Did Theodore Roosevelt study Judo?,2883
+0.05,0.65,0.8,1492,Did Theodore Roosevelt study Judo?,2883
+0.05,0.65,0.9,1492,Did Theodore Roosevelt study Judo?,2883
+0.05,0.72,0.8,1492,Did Theodore Roosevelt study Judo?,2883
+0.05,0.72,0.9,1492,Did Theodore Roosevelt study Judo?,2883
+0.02,0.5,0.8,178,Are beetles endopterygotes?,2394
+0.02,0.5,0.9,178,Are beetles endopterygotes?,2394
+0.02,0.65,0.8,178,Are beetles endopterygotes?,2394
+0.02,0.65,0.9,178,Are beetles endopterygotes?,2394
+0.02,0.72,0.8,178,Are beetles endopterygotes?,2394
+0.02,0.72,0.9,178,Are beetles endopterygotes?,2394
+0.05,0.5,0.8,178,Are beetles endopterygotes?,2394
+0.05,0.5,0.9,178,Are beetles endopterygotes?,2394
+0.05,0.65,0.8,178,Are beetles endopterygotes?,2394
+0.05,0.65,0.9,178,Are beetles endopterygotes?,2394
+0.05,0.72,0.8,178,Are beetles endopterygotes?,2394
+0.05,0.72,0.9,178,Are beetles endopterygotes?,2394
+0.02,0.5,0.8,867,What did James Monroe make in 1817?,2506
+0.02,0.5,0.9,867,What did James Monroe make in 1817?,2506
+0.02,0.65,0.8,867,What did James Monroe make in 1817?,2506
+0.02,0.65,0.9,867,What did James Monroe make in 1817?,2506
+0.02,0.72,0.8,867,What did James Monroe make in 1817?,2506
+0.02,0.72,0.9,867,What did James Monroe make in 1817?,2506
+0.05,0.5,0.8,867,What did James Monroe make in 1817?,2506
+0.05,0.5,0.9,867,What did James Monroe make in 1817?,2506
+0.05,0.65,0.8,867,What did James Monroe make in 1817?,2506
+0.05,0.65,0.9,867,What did James Monroe make in 1817?,2506
+0.05,0.72,0.8,867,What did James Monroe make in 1817?,2506
+0.05,0.72,0.9,867,What did James Monroe make in 1817?,2506
+0.02,0.5,0.8,4,Did his mother die of pneumonia?,3085
+0.02,0.5,0.9,4,Did his mother die of pneumonia?,3085
+0.02,0.65,0.8,4,Did his mother die of pneumonia?,3085
+0.02,0.65,0.9,4,Did his mother die of pneumonia?,3085
+0.02,0.72,0.8,4,Did his mother die of pneumonia?,3085
+0.02,0.72,0.9,4,Did his mother die of pneumonia?,3085
+0.05,0.5,0.8,4,Did his mother die of pneumonia?,3085
+0.05,0.5,0.9,4,Did his mother die of pneumonia?,3085
+0.05,0.65,0.8,4,Did his mother die of pneumonia?,3085
+0.05,0.65,0.9,4,Did his mother die of pneumonia?,3085
+0.05,0.72,0.8,4,Did his mother die of pneumonia?,3085
+0.05,0.72,0.9,4,Did his mother die of pneumonia?,3085
+0.02,0.5,0.8,1480,Where was Theodore Roosevelt born?,2883
+0.02,0.5,0.9,1480,Where was Theodore Roosevelt born?,2883
+0.02,0.65,0.8,1480,Where was Theodore Roosevelt born?,2883
+0.02,0.65,0.9,1480,Where was Theodore Roosevelt born?,2883
+0.02,0.72,0.8,1480,Where was Theodore Roosevelt born?,2883
+0.02,0.72,0.9,1480,Where was Theodore Roosevelt born?,2883
+0.05,0.5,0.8,1480,Where was Theodore Roosevelt born?,2883
+0.05,0.5,0.9,1480,Where was Theodore Roosevelt born?,2883
+0.05,0.65,0.8,1480,Where was Theodore Roosevelt born?,2883
+0.05,0.65,0.9,1480,Where was Theodore Roosevelt born?,2883
+0.05,0.72,0.8,1480,Where was Theodore Roosevelt born?,2883
+0.05,0.72,0.9,1480,Where was Theodore Roosevelt born?,2883
+0.02,0.5,0.8,428,Are elephants the largest land animals alive today?,1177
+0.02,0.5,0.9,428,Are elephants the largest land animals alive today?,1177
+0.02,0.65,0.8,428,Are elephants the largest land animals alive today?,1177
+0.02,0.65,0.9,428,Are elephants the largest land animals alive today?,1177
+0.02,0.72,0.8,428,Are elephants the largest land animals alive today?,1177
+0.02,0.72,0.9,428,Are elephants the largest land animals alive today?,1177
+0.05,0.5,0.8,428,Are elephants the largest land animals alive today?,1177
+0.05,0.5,0.9,428,Are elephants the largest land animals alive today?,1177
+0.05,0.65,0.8,428,Are elephants the largest land animals alive today?,1177
+0.05,0.65,0.9,428,Are elephants the largest land animals alive today?,1177
+0.05,0.72,0.8,428,Are elephants the largest land animals alive today?,1177
+0.05,0.72,0.9,428,Are elephants the largest land animals alive today?,1177
+0.02,0.5,0.8,774,What happens when the srivijaya kingdom formed trade links?,763
+0.02,0.5,0.9,774,What happens when the srivijaya kingdom formed trade links?,763
+0.02,0.65,0.8,774,What happens when the srivijaya kingdom formed trade links?,763
+0.02,0.65,0.9,774,What happens when the srivijaya kingdom formed trade links?,763
+0.02,0.72,0.8,774,What happens when the srivijaya kingdom formed trade links?,763
+0.02,0.72,0.9,774,What happens when the srivijaya kingdom formed trade links?,763
+0.05,0.5,0.8,774,What happens when the srivijaya kingdom formed trade links?,763
+0.05,0.5,0.9,774,What happens when the srivijaya kingdom formed trade links?,763
+0.05,0.65,0.8,774,What happens when the srivijaya kingdom formed trade links?,763
+0.05,0.65,0.9,774,What happens when the srivijaya kingdom formed trade links?,763
+0.05,0.72,0.8,774,What happens when the srivijaya kingdom formed trade links?,763
+0.05,0.72,0.9,774,What happens when the srivijaya kingdom formed trade links?,763
+0.02,0.5,0.8,47,How long was Lincoln's legal Career?,374
+0.02,0.5,0.9,47,How long was Lincoln's legal Career?,374
+0.02,0.65,0.8,47,How long was Lincoln's legal Career?,374
+0.02,0.65,0.9,47,How long was Lincoln's legal Career?,374
+0.02,0.72,0.8,47,How long was Lincoln's legal Career?,374
+0.02,0.72,0.9,47,How long was Lincoln's legal Career?,374
+0.05,0.5,0.8,47,How long was Lincoln's legal Career?,374
+0.05,0.5,0.9,47,How long was Lincoln's legal Career?,374
+0.05,0.65,0.8,47,How long was Lincoln's legal Career?,374
+0.05,0.65,0.9,47,How long was Lincoln's legal Career?,374
+0.05,0.72,0.8,47,How long was Lincoln's legal Career?,374
+0.05,0.72,0.9,47,How long was Lincoln's legal Career?,374
+0.02,0.5,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.02,0.5,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.02,0.65,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.02,0.65,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.02,0.72,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.02,0.72,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.5,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.5,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.65,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.65,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.72,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.72,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.02,0.5,0.8,595,Have more than five Presidents lived past the age of 90?,2103
+0.02,0.5,0.9,595,Have more than five Presidents lived past the age of 90?,2103
+0.02,0.65,0.8,595,Have more than five Presidents lived past the age of 90?,2103
+0.02,0.65,0.9,595,Have more than five Presidents lived past the age of 90?,2103
+0.02,0.72,0.8,595,Have more than five Presidents lived past the age of 90?,2103
+0.02,0.72,0.9,595,Have more than five Presidents lived past the age of 90?,2103
+0.05,0.5,0.8,595,Have more than five Presidents lived past the age of 90?,2103
+0.05,0.5,0.9,595,Have more than five Presidents lived past the age of 90?,2103
+0.05,0.65,0.8,595,Have more than five Presidents lived past the age of 90?,2103
+0.05,0.65,0.9,595,Have more than five Presidents lived past the age of 90?,2103
+0.05,0.72,0.8,595,Have more than five Presidents lived past the age of 90?,2103
+0.05,0.72,0.9,595,Have more than five Presidents lived past the age of 90?,2103
+0.02,0.5,0.8,875,What happened in the election of 1816?,202
+0.02,0.5,0.9,875,What happened in the election of 1816?,202
+0.02,0.65,0.8,875,What happened in the election of 1816?,202
+0.02,0.65,0.9,875,What happened in the election of 1816?,202
+0.02,0.72,0.8,875,What happened in the election of 1816?,202
+0.02,0.72,0.9,875,What happened in the election of 1816?,202
+0.05,0.5,0.8,875,What happened in the election of 1816?,202
+0.05,0.5,0.9,875,What happened in the election of 1816?,202
+0.05,0.65,0.8,875,What happened in the election of 1816?,202
+0.05,0.65,0.9,875,What happened in the election of 1816?,202
+0.05,0.72,0.8,875,What happened in the election of 1816?,202
+0.05,0.72,0.9,875,What happened in the election of 1816?,202
+0.02,0.5,0.8,951,What is the average life expectancy of a kangaroo?,1740
+0.02,0.5,0.9,951,What is the average life expectancy of a kangaroo?,1740
+0.02,0.65,0.8,951,What is the average life expectancy of a kangaroo?,1740
+0.02,0.65,0.9,951,What is the average life expectancy of a kangaroo?,1740
+0.02,0.72,0.8,951,What is the average life expectancy of a kangaroo?,1740
+0.02,0.72,0.9,951,What is the average life expectancy of a kangaroo?,1740
+0.05,0.5,0.8,951,What is the average life expectancy of a kangaroo?,1740
+0.05,0.5,0.9,951,What is the average life expectancy of a kangaroo?,1740
+0.05,0.65,0.8,951,What is the average life expectancy of a kangaroo?,1740
+0.05,0.65,0.9,951,What is the average life expectancy of a kangaroo?,1740
+0.05,0.72,0.8,951,What is the average life expectancy of a kangaroo?,1740
+0.05,0.72,0.9,951,What is the average life expectancy of a kangaroo?,1740
+0.02,0.5,0.8,463,Are elephants mammals?,1236
+0.02,0.5,0.9,463,Are elephants mammals?,1236
+0.02,0.65,0.8,463,Are elephants mammals?,1236
+0.02,0.65,0.9,463,Are elephants mammals?,1236
+0.02,0.72,0.8,463,Are elephants mammals?,1236
+0.02,0.72,0.9,463,Are elephants mammals?,1236
+0.05,0.5,0.8,463,Are elephants mammals?,1236
+0.05,0.5,0.9,463,Are elephants mammals?,1236
+0.05,0.65,0.8,463,Are elephants mammals?,1236
+0.05,0.65,0.9,463,Are elephants mammals?,1236
+0.05,0.72,0.8,463,Are elephants mammals?,1236
+0.05,0.72,0.9,463,Are elephants mammals?,1236
+0.02,0.5,0.8,1688,Was Wilson an automobile enthusiast?,2238
+0.02,0.5,0.9,1688,Was Wilson an automobile enthusiast?,2238
+0.02,0.65,0.8,1688,Was Wilson an automobile enthusiast?,2238
+0.02,0.65,0.9,1688,Was Wilson an automobile enthusiast?,2238
+0.02,0.72,0.8,1688,Was Wilson an automobile enthusiast?,2238
+0.02,0.72,0.9,1688,Was Wilson an automobile enthusiast?,2238
+0.05,0.5,0.8,1688,Was Wilson an automobile enthusiast?,2238
+0.05,0.5,0.9,1688,Was Wilson an automobile enthusiast?,2238
+0.05,0.65,0.8,1688,Was Wilson an automobile enthusiast?,2238
+0.05,0.65,0.9,1688,Was Wilson an automobile enthusiast?,2238
+0.05,0.72,0.8,1688,Was Wilson an automobile enthusiast?,2238
+0.05,0.72,0.9,1688,Was Wilson an automobile enthusiast?,2238
+0.02,0.5,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.02,0.5,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.02,0.65,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.02,0.65,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.02,0.72,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.02,0.72,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.05,0.5,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.05,0.5,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.05,0.65,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.05,0.65,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.05,0.72,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.05,0.72,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.02,0.5,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.02,0.5,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.02,0.65,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.02,0.65,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.02,0.72,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.02,0.72,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.05,0.5,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.05,0.5,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.05,0.65,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.05,0.65,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.05,0.72,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.05,0.72,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.02,0.5,0.8,158,Can beetles be found in polar regions?,2400
+0.02,0.5,0.9,158,Can beetles be found in polar regions?,2400
+0.02,0.65,0.8,158,Can beetles be found in polar regions?,2400
+0.02,0.65,0.9,158,Can beetles be found in polar regions?,2400
+0.02,0.72,0.8,158,Can beetles be found in polar regions?,2400
+0.02,0.72,0.9,158,Can beetles be found in polar regions?,2400
+0.05,0.5,0.8,158,Can beetles be found in polar regions?,2400
+0.05,0.5,0.9,158,Can beetles be found in polar regions?,2400
+0.05,0.65,0.8,158,Can beetles be found in polar regions?,2400
+0.05,0.65,0.9,158,Can beetles be found in polar regions?,2400
+0.05,0.72,0.8,158,Can beetles be found in polar regions?,2400
+0.05,0.72,0.9,158,Can beetles be found in polar regions?,2400
+0.02,0.5,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.02,0.5,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.02,0.65,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.02,0.65,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.02,0.72,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.02,0.72,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.05,0.5,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.05,0.5,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.05,0.65,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.05,0.65,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.05,0.72,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.05,0.72,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.02,0.5,0.8,475,Is an Asian elephant smaller than an African elephant?,1198
+0.02,0.5,0.9,475,Is an Asian elephant smaller than an African elephant?,1198
+0.02,0.65,0.8,475,Is an Asian elephant smaller than an African elephant?,1198
+0.02,0.65,0.9,475,Is an Asian elephant smaller than an African elephant?,1198
+0.02,0.72,0.8,475,Is an Asian elephant smaller than an African elephant?,1198
+0.02,0.72,0.9,475,Is an Asian elephant smaller than an African elephant?,1198
+0.05,0.5,0.8,475,Is an Asian elephant smaller than an African elephant?,1198
+0.05,0.5,0.9,475,Is an Asian elephant smaller than an African elephant?,1198
+0.05,0.65,0.8,475,Is an Asian elephant smaller than an African elephant?,1198
+0.05,0.65,0.9,475,Is an Asian elephant smaller than an African elephant?,1198
+0.05,0.72,0.8,475,Is an Asian elephant smaller than an African elephant?,1198
+0.05,0.72,0.9,475,Is an Asian elephant smaller than an African elephant?,1198
+0.02,0.5,0.8,1039,What sort of cats are solitary?,2458
+0.02,0.5,0.9,1039,What sort of cats are solitary?,2458
+0.02,0.65,0.8,1039,What sort of cats are solitary?,2458
+0.02,0.65,0.9,1039,What sort of cats are solitary?,2458
+0.02,0.72,0.8,1039,What sort of cats are solitary?,2458
+0.02,0.72,0.9,1039,What sort of cats are solitary?,2458
+0.05,0.5,0.8,1039,What sort of cats are solitary?,2458
+0.05,0.5,0.9,1039,What sort of cats are solitary?,2458
+0.05,0.65,0.8,1039,What sort of cats are solitary?,2458
+0.05,0.65,0.9,1039,What sort of cats are solitary?,2458
+0.05,0.72,0.8,1039,What sort of cats are solitary?,2458
+0.05,0.72,0.9,1039,What sort of cats are solitary?,2458

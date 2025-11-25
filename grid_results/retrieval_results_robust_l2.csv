@@ -1,0 +1,241 @@
+param_rho_vec,param_lambda,param_rho_div,question_id,question_text,document_id
+0.02,0.5,0.8,1492,Did Theodore Roosevelt study Judo?,"1389,2883,2887,2888,2889,2890,2892,2895,2917,2918,2952,2953,2974,2975,2976,3005,3008,3027,3028,3029,3031,3033,3034,3036,3037,3045,3085"
+0.02,0.5,0.9,1492,Did Theodore Roosevelt study Judo?,"1389,2883,2887,2888,2889,2890,2892,2895,2917,2918,2952,2953,2974,2975,2976,3005,3008,3027,3028,3029,3031,3033,3034,3036,3037,3045,3085"
+0.02,0.65,0.8,1492,Did Theodore Roosevelt study Judo?,2883
+0.02,0.65,0.9,1492,Did Theodore Roosevelt study Judo?,2883
+0.02,0.72,0.8,1492,Did Theodore Roosevelt study Judo?,2883
+0.02,0.72,0.9,1492,Did Theodore Roosevelt study Judo?,2883
+0.05,0.5,0.8,1492,Did Theodore Roosevelt study Judo?,"1389,2883,2887,2890,2895,3005,3008,3027,3029,3033,3036"
+0.05,0.5,0.9,1492,Did Theodore Roosevelt study Judo?,"1389,2883,2887,2890,2895,3005,3008,3027,3029,3033,3036"
+0.05,0.65,0.8,1492,Did Theodore Roosevelt study Judo?,2883
+0.05,0.65,0.9,1492,Did Theodore Roosevelt study Judo?,2883
+0.05,0.72,0.8,1492,Did Theodore Roosevelt study Judo?,2883
+0.05,0.72,0.9,1492,Did Theodore Roosevelt study Judo?,2883
+0.02,0.5,0.8,178,Are beetles endopterygotes?,"1327,2377,2378,2381,2383,2384,2385,2386,2387,2388,2389,2390,2392,2394,2396,2397,2398,2399,2400,2401,2402,2403,2407,2411,2412,2413,2414,2416,2417,2418,2419,2420,2423,2424,2425,2430,2432,2433,2435,2439,2440,2443,2473"
+0.02,0.5,0.9,178,Are beetles endopterygotes?,"1327,2377,2378,2381,2383,2384,2385,2386,2387,2388,2389,2390,2392,2394,2396,2397,2398,2399,2400,2401,2402,2403,2407,2411,2412,2413,2414,2416,2417,2418,2419,2420,2423,2424,2425,2430,2432,2433,2435,2439,2440,2443,2473"
+0.02,0.65,0.8,178,Are beetles endopterygotes?,2394
+0.02,0.65,0.9,178,Are beetles endopterygotes?,2394
+0.02,0.72,0.8,178,Are beetles endopterygotes?,2394
+0.02,0.72,0.9,178,Are beetles endopterygotes?,2394
+0.05,0.5,0.8,178,Are beetles endopterygotes?,"2377,2378,2381,2383,2384,2385,2386,2388,2390,2392,2394,2396,2397,2398,2399,2400,2402,2403,2411,2412,2413,2414,2417,2418,2419,2420,2424,2425,2430,2432,2435,2439,2440,2443"
+0.05,0.5,0.9,178,Are beetles endopterygotes?,"2377,2378,2381,2383,2384,2385,2386,2388,2390,2392,2394,2396,2397,2398,2399,2400,2402,2403,2411,2412,2413,2414,2417,2418,2419,2420,2424,2425,2430,2432,2435,2439,2440,2443"
+0.05,0.65,0.8,178,Are beetles endopterygotes?,2394
+0.05,0.65,0.9,178,Are beetles endopterygotes?,2394
+0.05,0.72,0.8,178,Are beetles endopterygotes?,2394
+0.05,0.72,0.9,178,Are beetles endopterygotes?,2394
+0.02,0.5,0.8,867,What did James Monroe make in 1817?,"202,288,390,409,488,491,498,510,521,530,541,669,679,695,2121,2195,2206,2248,2364,2506,2507,2508,2509,2510,2511,2512,2513,2514,2516,2517,2518,2519,2520,2523,2524,2527,2528,2529,2531,2532,2533,2534,2535,2536,2671,2747,2970"
+0.02,0.5,0.9,867,What did James Monroe make in 1817?,"202,288,390,409,488,491,498,510,521,530,541,669,679,695,2121,2195,2206,2248,2364,2506,2507,2508,2509,2510,2511,2512,2513,2514,2516,2517,2518,2519,2520,2523,2524,2527,2528,2529,2531,2532,2533,2534,2535,2536,2671,2747,2970"
+0.02,0.65,0.8,867,What did James Monroe make in 1817?,2506
+0.02,0.65,0.9,867,What did James Monroe make in 1817?,2506
+0.02,0.72,0.8,867,What did James Monroe make in 1817?,2506
+0.02,0.72,0.9,867,What did James Monroe make in 1817?,2506
+0.05,0.5,0.8,867,What did James Monroe make in 1817?,"202,390,510,2121,2206,2364,2506,2507,2508,2509,2510,2511,2512,2513,2514,2516,2518,2519,2529,2531,2532,2533,2534,2535,2536"
+0.05,0.5,0.9,867,What did James Monroe make in 1817?,"202,390,510,2121,2206,2364,2506,2507,2508,2509,2510,2511,2512,2513,2514,2516,2518,2519,2529,2531,2532,2533,2534,2535,2536"
+0.05,0.65,0.8,867,What did James Monroe make in 1817?,2506
+0.05,0.65,0.9,867,What did James Monroe make in 1817?,2506
+0.05,0.72,0.8,867,What did James Monroe make in 1817?,2506
+0.05,0.72,0.9,867,What did James Monroe make in 1817?,2506
+0.02,0.5,0.8,4,Did his mother die of pneumonia?,"146,187,1396,1967,3085"
+0.02,0.5,0.9,4,Did his mother die of pneumonia?,"146,187,1396,1967,3085"
+0.02,0.65,0.8,4,Did his mother die of pneumonia?,3085
+0.02,0.65,0.9,4,Did his mother die of pneumonia?,3085
+0.02,0.72,0.8,4,Did his mother die of pneumonia?,3085
+0.02,0.72,0.9,4,Did his mother die of pneumonia?,3085
+0.05,0.5,0.8,4,Did his mother die of pneumonia?,3085
+0.05,0.5,0.9,4,Did his mother die of pneumonia?,3085
+0.05,0.65,0.8,4,Did his mother die of pneumonia?,3085
+0.05,0.65,0.9,4,Did his mother die of pneumonia?,3085
+0.05,0.72,0.8,4,Did his mother die of pneumonia?,3085
+0.05,0.72,0.9,4,Did his mother die of pneumonia?,3085
+0.02,0.5,0.8,1480,Where was Theodore Roosevelt born?,"288,390,397,402,403,404,409,412,427,432,443,460,462,463,498,530,533,541,637,1383,1389,1391,1772,1773,1781,1839,1880,2000,2012,2053,2086,2121,2122,2123,2132,2195,2206,2213,2228,2245,2248,2249,2364,2682,2878,2880,2883,2884,2885,2887,2888,2889,2892,2893,2894,2895,2899,2900,2910,2924,2925,2932,2934,2941,2951,2952,2953,2958,2961,2965,2966,2968,2973,2974,2975,2976,2999,3004,3005,3007,3009,3012,3013,3014,3023,3025,3026,3027,3028,3029,3031,3033,3034,3036,3037,3038,3042,3044,3045,3085"
+0.02,0.5,0.9,1480,Where was Theodore Roosevelt born?,"288,390,397,402,403,404,409,412,427,432,443,460,462,463,498,530,533,541,637,1383,1389,1391,1772,1773,1781,1839,1880,2000,2012,2053,2086,2121,2122,2123,2132,2195,2206,2213,2228,2245,2248,2249,2364,2682,2878,2880,2883,2884,2885,2887,2888,2889,2892,2893,2894,2895,2899,2900,2910,2924,2925,2932,2934,2941,2951,2952,2953,2958,2961,2965,2966,2968,2973,2974,2975,2976,2999,3004,3005,3007,3009,3012,3013,3014,3023,3025,3026,3027,3028,3029,3031,3033,3034,3036,3037,3038,3042,3044,3045,3085"
+0.02,0.65,0.8,1480,Where was Theodore Roosevelt born?,2883
+0.02,0.65,0.9,1480,Where was Theodore Roosevelt born?,2883
+0.02,0.72,0.8,1480,Where was Theodore Roosevelt born?,2883
+0.02,0.72,0.9,1480,Where was Theodore Roosevelt born?,2883
+0.05,0.5,0.8,1480,Where was Theodore Roosevelt born?,"288,402,409,432,443,530,1772,2086,2121,2123,2132,2213,2245,2248,2249,2364,2878,2880,2883,2884,2885,2888,2889,2892,2894,2895,2900,2910,2925,2953,2966,2968,2974,2975,2999,3004,3014,3027,3028,3029,3031,3033,3034,3036,3037,3038,3045,3085"
+0.05,0.5,0.9,1480,Where was Theodore Roosevelt born?,"288,402,409,432,443,530,1772,2086,2121,2123,2132,2213,2245,2248,2249,2364,2878,2880,2883,2884,2885,2888,2889,2892,2894,2895,2900,2910,2925,2953,2966,2968,2974,2975,2999,3004,3014,3027,3028,3029,3031,3033,3034,3036,3037,3038,3045,3085"
+0.05,0.65,0.8,1480,Where was Theodore Roosevelt born?,2883
+0.05,0.65,0.9,1480,Where was Theodore Roosevelt born?,2883
+0.05,0.72,0.8,1480,Where was Theodore Roosevelt born?,2883
+0.05,0.72,0.9,1480,Where was Theodore Roosevelt born?,2883
+0.02,0.5,0.8,428,Are elephants the largest land animals alive today?,"801,969,1081,1167,1171,1173,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1186,1187,1188,1190,1191,1192,1193,1194,1195,1196,1197,1198,1200,1201,1202,1203,1204,1205,1210,1213,1221,1224,1231,1232,1236,1237,1238,1239,1240,1241,1242,1260,1264,1265,1266,1267,1268,1269,1275,1276,1277,1278,1279,1280,1282,1287,1289,1290,1293,1298,1300,1302,1303,1304,1312,1326,1331,1332,1333,1728,1730,1924,1931,2474,2475,2596,2608,2628,2652,2976"
+0.02,0.5,0.9,428,Are elephants the largest land animals alive today?,"801,969,1081,1167,1171,1173,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1186,1187,1188,1190,1191,1192,1193,1194,1195,1196,1197,1198,1200,1201,1202,1203,1204,1205,1210,1213,1221,1224,1231,1232,1236,1237,1238,1239,1240,1241,1242,1260,1264,1265,1266,1267,1268,1269,1275,1276,1277,1278,1279,1280,1282,1287,1289,1290,1293,1298,1300,1302,1303,1304,1312,1326,1331,1332,1333,1728,1730,1924,1931,2474,2475,2596,2608,2628,2652,2976"
+0.02,0.65,0.8,428,Are elephants the largest land animals alive today?,"1177,1186,1187,1192,1202,1236,1260,1282"
+0.02,0.65,0.9,428,Are elephants the largest land animals alive today?,"1177,1186,1187,1192,1202,1236,1260,1282"
+0.02,0.72,0.8,428,Are elephants the largest land animals alive today?,1177
+0.02,0.72,0.9,428,Are elephants the largest land animals alive today?,1177
+0.05,0.5,0.8,428,Are elephants the largest land animals alive today?,"969,1171,1173,1175,1176,1177,1178,1179,1180,1182,1186,1187,1188,1190,1192,1193,1194,1195,1196,1197,1200,1201,1202,1204,1221,1224,1231,1236,1237,1238,1241,1260,1264,1265,1268,1269,1275,1276,1277,1278,1279,1280,1282,1298,1304,1326,1331,1332,1333,2474,2652"
+0.05,0.5,0.9,428,Are elephants the largest land animals alive today?,"969,1171,1173,1175,1176,1177,1178,1179,1180,1182,1186,1187,1188,1190,1192,1193,1194,1195,1196,1197,1200,1201,1202,1204,1221,1224,1231,1236,1237,1238,1241,1260,1264,1265,1268,1269,1275,1276,1277,1278,1279,1280,1282,1298,1304,1326,1331,1332,1333,2474,2652"
+0.05,0.65,0.8,428,Are elephants the largest land animals alive today?,1177
+0.05,0.65,0.9,428,Are elephants the largest land animals alive today?,1177
+0.05,0.72,0.8,428,Are elephants the largest land animals alive today?,1177
+0.05,0.72,0.9,428,Are elephants the largest land animals alive today?,1177
+0.02,0.5,0.8,774,What happens when the srivijaya kingdom formed trade links?,"752,763,765,2180"
+0.02,0.5,0.9,774,What happens when the srivijaya kingdom formed trade links?,"752,763,765,2180"
+0.02,0.65,0.8,774,What happens when the srivijaya kingdom formed trade links?,763
+0.02,0.65,0.9,774,What happens when the srivijaya kingdom formed trade links?,763
+0.02,0.72,0.8,774,What happens when the srivijaya kingdom formed trade links?,763
+0.02,0.72,0.9,774,What happens when the srivijaya kingdom formed trade links?,763
+0.05,0.5,0.8,774,What happens when the srivijaya kingdom formed trade links?,"752,763,765"
+0.05,0.5,0.9,774,What happens when the srivijaya kingdom formed trade links?,"752,763"
+0.05,0.65,0.8,774,What happens when the srivijaya kingdom formed trade links?,763
+0.05,0.65,0.9,774,What happens when the srivijaya kingdom formed trade links?,763
+0.05,0.72,0.8,774,What happens when the srivijaya kingdom formed trade links?,763
+0.05,0.72,0.9,774,What happens when the srivijaya kingdom formed trade links?,763
+0.02,0.5,0.8,47,How long was Lincoln's legal Career?,"278,287,288,289,292,293,294,300,302,304,305,306,307,308,356,359,364,373,374,390,394,397,533,727,1838,1844,2086,2121,2206,2364,2365,2519,2950,2975,3085"
+0.02,0.5,0.9,47,How long was Lincoln's legal Career?,"278,287,288,289,292,293,294,300,302,304,305,306,307,308,356,359,364,373,374,390,394,397,533,727,1838,1844,2086,2121,2206,2364,2365,2519,2950,2975,3085"
+0.02,0.65,0.8,47,How long was Lincoln's legal Career?,374
+0.02,0.65,0.9,47,How long was Lincoln's legal Career?,374
+0.02,0.72,0.8,47,How long was Lincoln's legal Career?,374
+0.02,0.72,0.9,47,How long was Lincoln's legal Career?,374
+0.05,0.5,0.8,47,How long was Lincoln's legal Career?,"278,288,289,292,302,306,374,390,397,2086,2364"
+0.05,0.5,0.9,47,How long was Lincoln's legal Career?,"278,288,289,292,302,306,374,390,397,2086,2364"
+0.05,0.65,0.8,47,How long was Lincoln's legal Career?,374
+0.05,0.65,0.9,47,How long was Lincoln's legal Career?,374
+0.05,0.72,0.8,47,How long was Lincoln's legal Career?,374
+0.05,0.72,0.9,47,How long was Lincoln's legal Career?,374
+0.02,0.5,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?","803,2734"
+0.02,0.5,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?","803,2734"
+0.02,0.65,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.02,0.65,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.02,0.72,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.02,0.72,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.5,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.5,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.65,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.65,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.72,0.8,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.05,0.72,0.9,1470,"Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?",2734
+0.02,0.5,0.8,595,Have more than five Presidents lived past the age of 90?,"409,427,443,464,516,702,1832,2053,2086,2092,2096,2098,2099,2101,2103,2123,2883,3085"
+0.02,0.5,0.9,595,Have more than five Presidents lived past the age of 90?,"409,427,443,464,516,702,1832,2053,2086,2092,2096,2098,2099,2101,2103,2123,2883,3085"
+0.02,0.65,0.8,595,Have more than five Presidents lived past the age of 90?,2103
+0.02,0.65,0.9,595,Have more than five Presidents lived past the age of 90?,2103
+0.02,0.72,0.8,595,Have more than five Presidents lived past the age of 90?,2103
+0.02,0.72,0.9,595,Have more than five Presidents lived past the age of 90?,2103
+0.05,0.5,0.8,595,Have more than five Presidents lived past the age of 90?,"409,427,702,2092,2103,2883"
+0.05,0.5,0.9,595,Have more than five Presidents lived past the age of 90?,"409,427,702,2092,2103,2883"
+0.05,0.65,0.8,595,Have more than five Presidents lived past the age of 90?,2103
+0.05,0.65,0.9,595,Have more than five Presidents lived past the age of 90?,2103
+0.05,0.72,0.8,595,Have more than five Presidents lived past the age of 90?,2103
+0.05,0.72,0.9,595,Have more than five Presidents lived past the age of 90?,2103
+0.02,0.5,0.8,875,What happened in the election of 1816?,"201,202,319,437,483,501,648,670,677,687,690,691,710,826,1368,2114,2116,2296,2364,2365,2374,2513,2747"
+0.02,0.5,0.9,875,What happened in the election of 1816?,"201,202,319,437,483,501,648,670,677,687,690,691,710,826,1368,2114,2116,2296,2364,2365,2374,2513,2747"
+0.02,0.65,0.8,875,What happened in the election of 1816?,202
+0.02,0.65,0.9,875,What happened in the election of 1816?,202
+0.02,0.72,0.8,875,What happened in the election of 1816?,202
+0.02,0.72,0.9,875,What happened in the election of 1816?,202
+0.05,0.5,0.8,875,What happened in the election of 1816?,"201,202,437,483,677,690,691,710,2116,2364,2365,2513,2747"
+0.05,0.5,0.9,875,What happened in the election of 1816?,"201,202,437,483,677,690,691,710,2116,2364,2365,2513,2747"
+0.05,0.65,0.8,875,What happened in the election of 1816?,202
+0.05,0.65,0.9,875,What happened in the election of 1816?,202
+0.05,0.72,0.8,875,What happened in the election of 1816?,202
+0.05,0.72,0.9,875,What happened in the election of 1816?,202
+0.02,0.5,0.8,951,What is the average life expectancy of a kangaroo?,"1171,1177,1623,1722,1723,1728,1729,1730,1732,1735,1738,1740,1745,1748,1757,1760,1761,1767"
+0.02,0.5,0.9,951,What is the average life expectancy of a kangaroo?,"1171,1177,1623,1722,1723,1728,1729,1730,1732,1735,1738,1740,1745,1748,1757,1760,1761,1767"
+0.02,0.65,0.8,951,What is the average life expectancy of a kangaroo?,1740
+0.02,0.65,0.9,951,What is the average life expectancy of a kangaroo?,1740
+0.02,0.72,0.8,951,What is the average life expectancy of a kangaroo?,1740
+0.02,0.72,0.9,951,What is the average life expectancy of a kangaroo?,1740
+0.05,0.5,0.8,951,What is the average life expectancy of a kangaroo?,"1623,1722,1723,1728,1729,1735,1740,1745,1748,1761"
+0.05,0.5,0.9,951,What is the average life expectancy of a kangaroo?,"1623,1722,1723,1728,1729,1735,1740,1745,1748,1761"
+0.05,0.65,0.8,951,What is the average life expectancy of a kangaroo?,1740
+0.05,0.65,0.9,951,What is the average life expectancy of a kangaroo?,1740
+0.05,0.72,0.8,951,What is the average life expectancy of a kangaroo?,1740
+0.05,0.72,0.9,951,What is the average life expectancy of a kangaroo?,1740
+0.02,0.5,0.8,463,Are elephants mammals?,"1171,1173,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,1186,1187,1188,1189,1190,1191,1192,1193,1194,1195,1196,1197,1198,1200,1201,1202,1203,1204,1205,1206,1208,1210,1213,1215,1220,1221,1224,1225,1227,1228,1229,1231,1232,1234,1236,1237,1238,1239,1240,1241,1242,1243,1249,1250,1251,1252,1254,1257,1260,1261,1262,1264,1265,1266,1268,1269,1275,1276,1277,1278,1280,1281,1282,1287,1290,1293,1298,1302,1303,1304,1312,1319,1321,1322,1326,1327,1328,1329,1330,1331,1332,1333,1728,2462,2474,2480,2976"
+0.02,0.5,0.9,463,Are elephants mammals?,"1171,1173,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,1186,1187,1188,1189,1190,1191,1192,1193,1194,1195,1196,1197,1198,1200,1201,1202,1203,1204,1205,1206,1208,1210,1213,1215,1220,1221,1224,1225,1227,1228,1229,1231,1232,1234,1236,1237,1238,1239,1240,1241,1242,1243,1249,1250,1251,1252,1254,1257,1260,1261,1262,1264,1265,1266,1268,1269,1275,1276,1277,1278,1280,1281,1282,1287,1290,1293,1298,1302,1303,1304,1312,1319,1321,1322,1326,1327,1328,1329,1330,1331,1332,1333,1728,2462,2474,2480,2976"
+0.02,0.65,0.8,463,Are elephants mammals?,"1186,1197,1236,1260"
+0.02,0.65,0.9,463,Are elephants mammals?,"1186,1197,1236,1260"
+0.02,0.72,0.8,463,Are elephants mammals?,1236
+0.02,0.72,0.9,463,Are elephants mammals?,1236
+0.05,0.5,0.8,463,Are elephants mammals?,"1171,1173,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,1186,1187,1188,1189,1190,1192,1193,1195,1197,1198,1202,1203,1204,1205,1206,1210,1213,1215,1221,1224,1225,1231,1232,1234,1236,1237,1238,1239,1240,1251,1252,1254,1257,1260,1261,1264,1265,1268,1269,1275,1276,1277,1278,1280,1281,1282,1287,1290,1298,1302,1303,1312,1322,1326,1329,1331,1333,2474"
+0.05,0.5,0.9,463,Are elephants mammals?,"1171,1173,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,1186,1187,1188,1189,1190,1192,1193,1195,1197,1198,1202,1203,1204,1205,1206,1210,1213,1215,1221,1224,1225,1231,1232,1234,1236,1237,1238,1239,1240,1251,1252,1254,1257,1260,1261,1264,1265,1268,1269,1275,1276,1277,1278,1280,1281,1282,1287,1290,1298,1302,1303,1312,1322,1326,1329,1331,1333,2474"
+0.05,0.65,0.8,463,Are elephants mammals?,1236
+0.05,0.65,0.9,463,Are elephants mammals?,1236
+0.05,0.72,0.8,463,Are elephants mammals?,1236
+0.05,0.72,0.9,463,Are elephants mammals?,1236
+0.02,0.5,0.8,1688,Was Wilson an automobile enthusiast?,"1391,1407,1447,1486,1500,1509,1513,1528,1539,2086,2132,2133,2134,2138,2154,2155,2158,2169,2195,2201,2208,2209,2211,2213,2223,2227,2229,2230,2231,2232,2233,2237,2238,2240,2245,2246,2248,2364,3085"
+0.02,0.5,0.9,1688,Was Wilson an automobile enthusiast?,"1391,1407,1447,1486,1500,1509,1513,1528,1539,2086,2132,2133,2134,2138,2154,2155,2158,2169,2195,2201,2208,2209,2211,2213,2223,2227,2229,2230,2231,2232,2233,2237,2238,2240,2245,2246,2248,2364,3085"
+0.02,0.65,0.8,1688,Was Wilson an automobile enthusiast?,2238
+0.02,0.65,0.9,1688,Was Wilson an automobile enthusiast?,2238
+0.02,0.72,0.8,1688,Was Wilson an automobile enthusiast?,2238
+0.02,0.72,0.9,1688,Was Wilson an automobile enthusiast?,2238
+0.05,0.5,0.8,1688,Was Wilson an automobile enthusiast?,"1407,1447,1513,2132,2158,2195,2208,2211,2227,2232,2237,2238,2245,2246"
+0.05,0.5,0.9,1688,Was Wilson an automobile enthusiast?,"1407,1447,1513,2132,2158,2195,2208,2211,2227,2232,2237,2238,2245,2246"
+0.05,0.65,0.8,1688,Was Wilson an automobile enthusiast?,2238
+0.05,0.65,0.9,1688,Was Wilson an automobile enthusiast?,2238
+0.05,0.72,0.8,1688,Was Wilson an automobile enthusiast?,2238
+0.05,0.72,0.9,1688,Was Wilson an automobile enthusiast?,2238
+0.02,0.5,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,"83,149,150,152,176,180,181,185,190,195,197,203,403,498,529,1389,1772,1801,2086,2124,2127,2364,2682"
+0.02,0.5,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,"83,149,150,152,176,180,181,185,190,195,197,203,403,498,529,1389,1772,1801,2086,2124,2127,2364,2682"
+0.02,0.65,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.02,0.65,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.02,0.72,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.02,0.72,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.05,0.5,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,"152,176,180,181,403,2127"
+0.05,0.5,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,"152,176,180,181,403,2127"
+0.05,0.65,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.05,0.65,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.05,0.72,0.8,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.05,0.72,0.9,1150,Was Fillmore one of the founders of the University of Buffalo?,181
+0.02,0.5,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,"950,951,952,953,963,967,969,971,972,973,974,975,978,979,980,981,982,983,984,988,989,992,993,1003,1016,1017,1019,1020,1730,1735,1767,1921,2473,2608,2652"
+0.02,0.5,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,"950,951,952,953,963,967,969,971,972,973,974,975,978,979,980,981,982,983,984,988,989,992,993,1003,1016,1017,1019,1020,1730,1735,1767,1921,2473,2608,2652"
+0.02,0.65,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.02,0.65,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.02,0.72,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.02,0.72,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.05,0.5,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,"950,951,952,953,963,967,969,971,972,975,978,979,981,984,989,993,1003,1016,1019,1020,1730,1735,1767"
+0.05,0.5,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,"950,951,952,953,963,967,969,971,972,975,978,979,981,984,989,993,1003,1016,1019,1020,1730,1735,1767"
+0.05,0.65,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.05,0.65,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.05,0.72,0.8,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.05,0.72,0.9,1270,Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?,953
+0.02,0.5,0.8,158,Can beetles be found in polar regions?,"1260,2368,2378,2394,2400,2401,2402,2417,2425,2430,2434,2443,2592,2600,2608,2618,2624,2628,2642,2652"
+0.02,0.5,0.9,158,Can beetles be found in polar regions?,"1260,2368,2378,2394,2400,2401,2402,2417,2425,2430,2434,2443,2592,2600,2608,2618,2624,2628,2642,2652"
+0.02,0.65,0.8,158,Can beetles be found in polar regions?,2400
+0.02,0.65,0.9,158,Can beetles be found in polar regions?,2400
+0.02,0.72,0.8,158,Can beetles be found in polar regions?,2400
+0.02,0.72,0.9,158,Can beetles be found in polar regions?,2400
+0.05,0.5,0.8,158,Can beetles be found in polar regions?,"2368,2378,2400,2618,2628,2642,2652"
+0.05,0.5,0.9,158,Can beetles be found in polar regions?,"2368,2378,2400,2618,2628,2642,2652"
+0.05,0.65,0.8,158,Can beetles be found in polar regions?,2400
+0.05,0.65,0.9,158,Can beetles be found in polar regions?,2400
+0.05,0.72,0.8,158,Can beetles be found in polar regions?,2400
+0.05,0.72,0.9,158,Can beetles be found in polar regions?,2400
+0.02,0.5,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,"2455,2480,2482,2493,2494,2505"
+0.02,0.5,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,"2455,2480,2482,2493,2494,2505"
+0.02,0.65,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,"2493,2494"
+0.02,0.65,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,"2493,2494"
+0.02,0.72,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.02,0.72,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.05,0.5,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,"2455,2480,2493,2494"
+0.05,0.5,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,"2455,2480,2493,2494"
+0.05,0.65,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,"2493,2494"
+0.05,0.65,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,"2493,2494"
+0.05,0.72,0.8,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.05,0.72,0.9,1045,Were the Leopard men a West African secret society who practised cannibalism ?,2493
+0.02,0.5,0.8,475,Is an Asian elephant smaller than an African elephant?,"1171,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,1186,1187,1188,1189,1190,1191,1192,1193,1194,1195,1196,1197,1198,1200,1201,1202,1203,1204,1205,1206,1210,1213,1215,1220,1221,1223,1224,1225,1228,1229,1230,1231,1232,1234,1236,1237,1238,1241,1242,1244,1249,1252,1257,1260,1264,1265,1266,1268,1269,1275,1276,1277,1280,1281,1282,1287,1289,1290,1298,1302,1303,1304,1326,1328,1329,1331,1332,1333,2467,2474,2976"
+0.02,0.5,0.9,475,Is an Asian elephant smaller than an African elephant?,"1171,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,1186,1187,1188,1189,1190,1191,1192,1193,1194,1195,1196,1197,1198,1200,1201,1202,1203,1204,1205,1206,1210,1213,1215,1220,1221,1223,1224,1225,1228,1229,1230,1231,1232,1234,1236,1237,1238,1241,1242,1244,1249,1252,1257,1260,1264,1265,1266,1268,1269,1275,1276,1277,1280,1281,1282,1287,1289,1290,1298,1302,1303,1304,1326,1328,1329,1331,1332,1333,2467,2474,2976"
+0.02,0.65,0.8,475,Is an Asian elephant smaller than an African elephant?,"1180,1182,1186,1189,1193,1198,1202,1204,1224,1236"
+0.02,0.65,0.9,475,Is an Asian elephant smaller than an African elephant?,"1180,1182,1186,1189,1193,1198,1202,1204,1224,1236"
+0.02,0.72,0.8,475,Is an Asian elephant smaller than an African elephant?,1198
+0.02,0.72,0.9,475,Is an Asian elephant smaller than an African elephant?,"1182,1198"
+0.05,0.5,0.8,475,Is an Asian elephant smaller than an African elephant?,"1171,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,1186,1187,1188,1189,1190,1191,1192,1193,1194,1195,1196,1197,1198,1200,1201,1202,1203,1204,1205,1210,1213,1220,1221,1224,1225,1229,1230,1231,1232,1234,1236,1238,1260,1265,1266,1268,1269,1275,1277,1280,1281,1282,1298,1302,1303,1326,1328,1331,1332"
+0.05,0.5,0.9,475,Is an Asian elephant smaller than an African elephant?,"1171,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,1186,1187,1188,1189,1190,1191,1192,1193,1194,1195,1196,1197,1198,1200,1201,1202,1203,1204,1205,1210,1213,1220,1221,1224,1225,1229,1230,1231,1232,1234,1236,1238,1260,1265,1266,1268,1269,1275,1277,1280,1281,1282,1298,1302,1303,1326,1328,1331,1332"
+0.05,0.65,0.8,475,Is an Asian elephant smaller than an African elephant?,"1180,1182,1189,1198,1236"
+0.05,0.65,0.9,475,Is an Asian elephant smaller than an African elephant?,"1182,1189,1198,1236"
+0.05,0.72,0.8,475,Is an Asian elephant smaller than an African elephant?,1198
+0.05,0.72,0.9,475,Is an Asian elephant smaller than an African elephant?,1198
+0.02,0.5,0.8,1039,What sort of cats are solitary?,"1035,1042,1167,1171,2455,2458,2473,2475,2596"
+0.02,0.5,0.9,1039,What sort of cats are solitary?,"1035,1042,1167,1171,2455,2458,2473,2475,2596"
+0.02,0.65,0.8,1039,What sort of cats are solitary?,2458
+0.02,0.65,0.9,1039,What sort of cats are solitary?,2458
+0.02,0.72,0.8,1039,What sort of cats are solitary?,2458
+0.02,0.72,0.9,1039,What sort of cats are solitary?,2458
+0.05,0.5,0.8,1039,What sort of cats are solitary?,"1167,2458"
+0.05,0.5,0.9,1039,What sort of cats are solitary?,"1167,2458"
+0.05,0.65,0.8,1039,What sort of cats are solitary?,2458
+0.05,0.65,0.9,1039,What sort of cats are solitary?,2458
+0.05,0.72,0.8,1039,What sort of cats are solitary?,2458
+0.05,0.72,0.9,1039,What sort of cats are solitary?,2458
