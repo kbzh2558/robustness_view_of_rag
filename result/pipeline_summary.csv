@@ -1,0 +1,6 @@
+input_file,output_file,total_rows,successful_evals,exact_match_rate,mean_f1_score,mean_bertscore_f1,mean_cosine_similarity
+retrieval_results_cutting_plane.csv,results_retrieval_results_cutting_plane.csv,360,360,0.65,0.7047846215780998,0.8678826120164659,0.8466727084917499
+retrieval_results_robust_l2.csv,results_retrieval_results_robust_l2.csv,240,240,0.7,0.7509352764094144,0.865760321666797,0.8749681944710708
+retrieval_results_robust_l1.csv,results_retrieval_results_robust_l1.csv,240,240,0.6916666666666667,0.7358986928104575,0.8607306875288486,0.8705311763941825
+retrieval_results_robust_linf.csv,results_retrieval_results_robust_linf.csv,240,240,0.65,0.7070833333333333,0.8764226377010346,0.8550624913705356
+retrieval_results_topk.csv,results_retrieval_results_topk.csv,100,100,0.77,0.8109076921623222,0.8569025915861129,0.8835078707616688
